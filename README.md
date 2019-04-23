@@ -53,7 +53,6 @@ src
 ```
 
 This file contains an **API** that you are going to be interfacing with. Below is documentation on how to interact with the **API**.
-
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
